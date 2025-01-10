@@ -1,0 +1,6 @@
+GrQwDdaBWMXDbqPFoKNe19W7qg4zCo3BLdfmfSj1L656
+
+AIRDROP TRANSACTION: https://explorer.solana.com/tx/4gHwph3z45MnRHQ7VwhGbGQ6YpoG9CkZmPweQ8YmgGyEptciYKE8ew28KcgtgBmS1LGeKWDYW5KNANSKFSvYKzua?cluster=devnet
+
+SMOL TRANSFER TRANSACTION: https://explorer.solana.com/tx/VakSd5TGFMWqTidi1MEE7oAU9rvMeycrKcqAAJMEhkLHAjBPQcPBZWkV48VA9sNaBvzzyFA8SHnwu7E4rM6qYox?cluster=devnet
+
